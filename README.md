@@ -49,6 +49,7 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Khác nhau giữa `cookie`, `sessionStorage` và `localStorage`.
 * Khác nhau giữa `<script>`, `<script async>` và `<script defer>`.
 * Tại sao nên đặt `<link>` trong thẻ `<head></head>` và đặt `<script>` sau thẻ `</body>`. Ngoại lệ khi nào?
+* HTML processor là gì, bạn biết những HTML processor nào ?
 
 ## Hỏi về CSS
 
@@ -63,6 +64,13 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
  * Ex: thẻ `<a class="color1 color2">` có màu đỏ, sau đó bị class `color2` đè lên thành màu xanh. Cú pháp nào để khôi phục lại thành màu trước đó?
 * `z-index` dùng để làm gì?
 * Tại sao `@import` chỉ có thể sử dụng ở đầu file?
+* CSS processor là gì, ưu và nhược điểm?
+* BEM, SMACSS, OOCSS là gì?
+* Bạn hãy cho biết các thành phần của box model trong css
+* Transition và animation khác nhau như thế nào ? Hãy cho một ví dụ
+* Cách để căn giữa các phần tử theo chiều dọc, chiều ngang, độ dài và rộng cố định hoặc không xác định
+* Các phương pháp để cross browser
+* Perfect pixel là gì ? làm thế nào để thực hiện nó
 
 *(Coming soon)*
 
@@ -162,6 +170,7 @@ console.log('three');
 * Những dữ án nào mà bạn cho là thú vụ đã từng làm qua?
 * Bạn hay sử dụng các công cụ (tools) nào? 
 * Bạn thích tính năng nào của Internet Explorer nhất?
+* Hãy giải thích một cách đơn giản nhất cho người không biết gì về công nghệ có thể hiểu được công việc của một FE dev
 
 ------------------------------------------
 
