@@ -50,6 +50,8 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Khác nhau giữa `<script>`, `<script async>` và `<script defer>`.
 * Tại sao nên đặt `<link>` trong thẻ `<head></head>` và đặt `<script>` sau thẻ `</body>`. Ngoại lệ khi nào?
 * HTML processor là gì, bạn biết những HTML processor nào ?
+* Sematic HTML là gì?
+* Sự khác nhau giữa SVG và canvas?
 
 ## Hỏi về CSS
 
@@ -71,6 +73,9 @@ Mình tha thiết mong muốn mọi người cùng đóng góp nội dung, [tạ
 * Cách để căn giữa các phần tử theo chiều dọc, chiều ngang, độ dài và rộng cố định hoặc không xác định
 * Các phương pháp để cross browser
 * Perfect pixel là gì ? làm thế nào để thực hiện nó
+* Sự khác nhau giữa display: none , visibility hidden và opacity: 0?
+* Có bao nhiêu loại màu trong CSS, hãy liệt kê nó
+* * { box-sizing: border-box; }  có nghĩa là gì ? Hãy giải thích 
 
 *(Coming soon)*
 
